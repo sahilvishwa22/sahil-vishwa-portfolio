@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Funnel Display';
+  src: url('/fonts/FunnelDisplay.ttf') format('truetype-variations'),
+       url('/fonts/FunnelDisplay.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-funnel {
+  font-family: 'Funnel Display', sans-serif;
+}
+
+.font-editorial {
+  font-family: 'Playfair Display', Georgia, serif !important;
+}
+
+.font-editorial-serif {
+  font-family: 'Instrument Serif', 'Playfair Display', Georgia, serif !important;
+}
+
+:root {
+  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: 'Funnel Display', sans-serif;
+  color-scheme: dark;
+}
+
+html {
+  font-family: var(--font-sans);
+  background-color: #090a0d;
+  color: #f3f4f6;
+}
+
+/* Site-wide: All headers, titles, and .font-funnel / .font-heading elements use Funnel Display */
+h1, h2, h3, h4, h5, h6, .font-heading, .font-funnel {
+  font-family: 'Funnel Display', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.02em;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.animate-blink { 
+  animation: blink 1s step-end infinite; 
+}
+
+@keyframes filmGrain {
+  0% { transform: translate3d(0, 0, 0); }
+  10% { transform: translate3d(-4%, -7%, 0); }
+  20% { transform: translate3d(-10%, 5%, 0); }
+  30% { transform: translate3d(6%, -12%, 0); }
+  40% { transform: translate3d(-3%, 15%, 0); }
+  50% { transform: translate3d(-8%, 8%, 0); }
+  60% { transform: translate3d(12%, -3%, 0); }
+  70% { transform: translate3d(0%, 10%, 0); }
+  80% { transform: translate3d(5%, 18%, 0); }
+  90% { transform: translate3d(-7%, -10%, 0); }
+  100% { transform: translate3d(0, 0, 0); }
+}
+
+.animate-film-grain {
+  animation: filmGrain 0.65s steps(10) infinite;
+}
+
+@keyframes specularSheen {
+  0% {
+    background-position: -200% 0;
+  }
+  32% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.specular-text {
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-bottom: 0.22em;
+  margin-top: -0.1em;
+  margin-bottom: -0.22em;
+  background: linear-gradient(
+    115deg,
+    #ffffff 0%,
+    #ffffff 38%,
+    #a7f3d0 48%,
+    #ffffff 58%,
+    #ffffff 100%
+  );
+  background-size: 260% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: specularSheen 6.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Custom dark scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #090a0d;
+}
+::-webkit-scrollbar-thumb {
+  background: #262833;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f4254;
+}
+
+/* Custom 3D Viewport / Camera Reticle Cursor */
+@media (hover: hover) and (pointer: fine) {
+  body.custom-cursor-enabled,
+  body.custom-cursor-enabled * {
+    cursor: none !important;
+  }
+}
+

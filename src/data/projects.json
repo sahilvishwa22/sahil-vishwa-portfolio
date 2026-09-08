@@ -1,0 +1,2128 @@
+[
+  {
+    "id": "proj-1",
+    "title": "A&H Capital",
+    "client": "A&H Capital",
+    "folder": "A&H Capital",
+    "category": "Brand Film",
+    "filename": "A&H Capital.mp4",
+    "videoSrc": "/local-videos/A&H Capital/A&H Capital.mp4",
+    "posterSrc": "/posters/poster_1_A_H_Capital.jpg",
+    "width": 1280,
+    "height": 720,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 108.1,
+    "tags": [
+      "Brand Identity",
+      "3D Motion"
+    ],
+    "tools": [
+      "After Effects",
+      "Blender",
+      "Premiere Pro",
+      "Photoshop",
+      "Syntheyes"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-2",
+    "title": "Haar-Raah",
+    "client": "ACCA India",
+    "folder": "ACCA",
+    "category": "Campaign Promotion",
+    "filename": "CUBE-v6.mp4",
+    "videoSrc": "/local-videos/ACCA/CUBE-v6.mp4",
+    "posterSrc": "/posters/poster_2_CUBE_v6.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 10.5,
+    "tags": [
+      "Motion Design",
+      "Education Campaign",
+      "Silver Winner"
+    ],
+    "tools": [
+      "After Effects",
+      "Blender",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Silver Winner at the afaqs! Marketers’ Excellence Awards 2025 for Best Campaign in Education. Crafted motion graphics for ACCA India's empowering educational campaign (Agency: Oktobuzz).",
+    "award": {
+      "rank": "SILVER WINNER",
+      "title": "SILVER WINNER - afaqs! Marketers’ Excellence Awards 2025 (Best Campaign in Education)",
+      "category": "Campaign Promotion",
+      "subCategory": "Excellence Award",
+      "year": "2025",
+      "link": "https://events.afaqs.com/marketers-excellence-awards-2025/Awards/winners"
+    },
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary",
+    "playbackRate": 3.0
+  },
+  {
+    "id": "proj-77",
+    "title": "OIAI- Brand Flim",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "Brand Film",
+    "filename": "OIAI-FInal.mp4",
+    "videoSrc": "/local-videos/OIAI/OIAI-FInal.mp4",
+    "posterSrc": "/posters/poster_oiai_oiai_final_mp4.jpg",
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 68.5,
+    "tags": [
+      "OIAI Campaign",
+      "3D Generalist",
+      "3D Visualization"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "Master commercial 3D campaign film for OIAI.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-6",
+    "title": "Amish Book Promotion",
+    "client": "Amish Tripati",
+    "folder": "Sprint and Motions",
+    "category": "Book Promotion",
+    "filename": "Amish-Vertical Reel.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Amish-Vertical Reel.mp4",
+    "posterSrc": "/posters/poster_6_Amish_Vertical_Reel.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 27.6,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-7",
+    "title": "Sporty Rich",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "SPRINT.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/SPRINT.mp4",
+    "posterSrc": "/posters/poster_7_SPRINT.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 37.3,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-8",
+    "title": "AllThingsPrettyLace",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-AllThingsPrettyLace.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-AllThingsPrettyLace.mp4",
+    "posterSrc": "/posters/poster_8_Sprint_AllThingsPrettyLace.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 15.9,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-9",
+    "title": "BohoState",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-BohoState.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-BohoState.mp4",
+    "posterSrc": "/posters/poster_9_Sprint_BohoState.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 19.7,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-10",
+    "title": "CampusCore",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-CampusCore.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-CampusCore.mp4",
+    "posterSrc": "/posters/poster_10_Sprint_CampusCore.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 26.3,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-11",
+    "title": "CotonStory",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-CotonStory.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-CotonStory.mp4",
+    "posterSrc": "/posters/poster_11_Sprint_CotonStory.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 23.7,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-12",
+    "title": "DetenetionClub",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-DetenetionClub.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-DetenetionClub.mp4",
+    "posterSrc": "/posters/poster_12_Sprint_DetenetionClub.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 18.6,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-13",
+    "title": "EveryStyle",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-EveryStyle.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-EveryStyle.mp4",
+    "posterSrc": "/posters/poster_13_Sprint_EveryStyle.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 23.8,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-14",
+    "title": "FitCheckTailored",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-FitCheckTailored.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-FitCheckTailored.mp4",
+    "posterSrc": "/posters/poster_14_Sprint_FitCheckTailored.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 28,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-15",
+    "title": "FlatFabulous",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-FlatFabulous.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-FlatFabulous.mp4",
+    "posterSrc": "/posters/poster_15_Sprint_FlatFabulous.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 20.5,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-16",
+    "title": "GameSetFlex",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-GameSetFlex.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-GameSetFlex.mp4",
+    "posterSrc": "/posters/poster_16_Sprint_GameSetFlex.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 21.1,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-17",
+    "title": "HighStreetNeutral",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-HighStreetNeutral.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-HighStreetNeutral.mp4",
+    "posterSrc": "/posters/poster_17_Sprint_HighStreetNeutral.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 20.2,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-18",
+    "title": "IconicDad",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-IconicDad.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-IconicDad.mp4",
+    "posterSrc": "/posters/poster_18_Sprint_IconicDad.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 15.2,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-19",
+    "title": "IconicDadMain",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-IconicDadMain.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-IconicDadMain.mp4",
+    "posterSrc": "/posters/poster_19_Sprint_IconicDadMain.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 23.3,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-20",
+    "title": "InnerWears",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-InnerWears.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-InnerWears.mp4",
+    "posterSrc": "/posters/poster_20_Sprint_InnerWears.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 15,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-21",
+    "title": "RafiaEdit",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-RafiaEdit.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-RafiaEdit.mp4",
+    "posterSrc": "/posters/poster_21_Sprint_RafiaEdit.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 14.9,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-22",
+    "title": "Winblendon Edit",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-Winblendon Edit.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-Winblendon Edit.mp4",
+    "posterSrc": "/posters/poster_22_Sprint_Winblendon_Edit.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 19.6,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "AI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-23",
+    "title": "YogaRItual",
+    "client": "Westside",
+    "folder": "Sprint and Motions",
+    "category": "Viral Reel Content",
+    "filename": "Sprint-YogaRItual.mp4",
+    "videoSrc": "/local-videos/Sprint and Motions/Sprint-YogaRItual.mp4",
+    "posterSrc": "/posters/poster_23_Sprint_YogaRItual.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 18.1,
+    "tags": [
+      "Motion Graphics",
+      "Fashion Editorial",
+      "Reel"
+    ],
+    "tools": [
+      "After Effects",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer",
+    "description": "",
+    "targetCategory": "Motion Graphics",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-24",
+    "title": "Festive Promotion",
+    "client": "Vithobha",
+    "folder": "Vithobha",
+    "category": "Product & CGI",
+    "filename": "FINAL GROWTH.mp4",
+    "videoSrc": "/local-videos/Vithobha/FINAL GROWTH.mp4",
+    "posterSrc": "/posters/poster_24_FINAL_GROWTH.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 23.3,
+    "tags": [
+      "Product Render",
+      "3D Lookdev",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-25",
+    "title": "CGI Promotion",
+    "client": "Vithobha",
+    "folder": "Vithobha",
+    "category": "Product & CGI",
+    "filename": "VITHO CG.mp4",
+    "videoSrc": "/local-videos/Vithobha/VITHO CG.mp4",
+    "posterSrc": "/posters/poster_25_VITHO_CG.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 26.5,
+    "tags": [
+      "Product Render",
+      "3D Lookdev",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-26",
+    "title": "Dry Shampoo-CGi",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "BUSY ME .mp4",
+    "videoSrc": "/local-videos/Westside/BUSY ME .mp4",
+    "posterSrc": "/posters/poster_26_BUSY_ME_.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 19.3,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-28",
+    "title": "Chelsea CGI",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "Chelsea CGI.mp4",
+    "videoSrc": "/local-videos/Westside/Chelsea CGI.mp4",
+    "posterSrc": "/posters/poster_28_Chelsea_CGI.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 13.8,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-29",
+    "title": "Christmas CGI -2025",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "Christmas-2025.mp4",
+    "videoSrc": "/local-videos/Westside/Christmas-2025.mp4",
+    "posterSrc": "/posters/poster_29_Christmas_2025.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 38.2,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-30",
+    "title": "Christmas CGI -2026",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "Christmas-2026.mp4",
+    "videoSrc": "/local-videos/Westside/Christmas-2026.mp4",
+    "posterSrc": "/posters/poster_30_Christmas_2026.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 28,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-31",
+    "title": "Denim CGI",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "Denim_CGI.mp4",
+    "videoSrc": "/local-videos/Westside/Denim_CGI.mp4",
+    "posterSrc": "/posters/poster_31_Denim_CGI.jpg",
+    "width": 3240,
+    "height": 4050,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 7.7,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-32",
+    "title": "F1 CGI",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "F1 CGI.mp4",
+    "videoSrc": "/local-videos/Westside/F1 CGI.mp4",
+    "posterSrc": "/posters/poster_32_F1_CGI.jpg",
+    "width": 540,
+    "height": 960,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 18.6,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-33",
+    "title": "Mother s Day CGI",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "Mother_s Day.mp4",
+    "videoSrc": "/local-videos/Westside/Mother_s Day.mp4",
+    "posterSrc": "/posters/poster_33_Mother_s_Day.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 8,
+    "tags": [
+      "3D CGI",
+      "Commercial"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "High-impact 3D commercial campaign produced for Westside's Mother's Day edition. Features the custom-designed 3D Westside Beauty product range.",
+    "galleryImages": [
+      "/stills/Product Range.png"
+    ],
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-34",
+    "title": "Vinyl CGI",
+    "client": "Westside",
+    "folder": "Westside",
+    "category": "CGI & 3D Ads",
+    "filename": "Vinyl.mp4",
+    "videoSrc": "/local-videos/Westside/Vinyl.mp4",
+    "posterSrc": "/posters/poster_34_Vinyl.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 16.1,
+    "tags": [
+      "3D CGI",
+      "Commercial",
+      "Award Winner"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Gold Winner at the ACEF Asian Leadership Awards 2026 for Best in Creativity in Social Media. Crafted high-velocity 3D fashion CGI advertising for Westside.",
+    "award": {
+      "rank": "GOLD WINNER",
+      "title": "GOLD WINNER - ACEF Asian Leadership Awards 2026 (Best in Creativity)",
+      "category": "CGI & 3D Ads",
+      "subCategory": "Excellence Award",
+      "year": "2025",
+      "link": "https://globalcustomerengagement.com/ACEFWinners2026"
+    },
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-36",
+    "title": "Xeno-CGI",
+    "client": "Xeno",
+    "folder": "Xeno",
+    "category": "Product & CGI",
+    "filename": "Xeno-CGi.mp4",
+    "videoSrc": "/local-videos/Xeno/Xeno-CGi.mp4",
+    "posterSrc": "/posters/poster_36_Xeno_CGi.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 23.4,
+    "tags": [
+      "Commercial CGI",
+      "Product"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-75",
+    "title": "3D Viusalization- AREL",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "Arel(Push IN).mp4",
+    "videoSrc": "/local-videos/OIAI/Arel(Push%20IN).mp4",
+    "posterSrc": "/posters/poster_oiai_arel_push_in__mp4.jpg",
+    "width": 3840,
+    "height": 1624,
+    "aspectRatio": "3840:1624",
+    "isVertical": false,
+    "duration": 8.3,
+    "tags": [
+      "OIAI Campaign",
+      "Camera Move",
+      "Cinematic CGI"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Cinematic push-in camera move over high-detail 3D environment.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-76",
+    "title": "3D Viusalization- Dhamani",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "Dhamani(Push-IN).mp4",
+    "videoSrc": "/local-videos/OIAI/Dhamani(Push-IN).mp4",
+    "posterSrc": "/posters/poster_oiai_dhamani_push_in__mp4.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 5,
+    "tags": [
+      "OIAI Campaign",
+      "Architecture CGI",
+      "Lookdev"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "High-precision 3D architectural push-in visual for Dhamani.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-81",
+    "title": "3D Viusalization- Wegofin",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "WEgoFin(Transformation).mp4",
+    "videoSrc": "/local-videos/OIAI/WEgoFin(Transformation).mp4",
+    "posterSrc": "/posters/poster_oiai_wegofin_transformation__mp4.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 4,
+    "tags": [
+      "OIAI Campaign",
+      "Tech CGI",
+      "Transformation"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "Cinematic 3D transformation and product lookdev animation for OIAI WEgoFin.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-40",
+    "title": "Camera Rig",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Lighting & Render",
+    "filename": "1.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/1.mp4",
+    "posterSrc": "/posters/poster_personal_1_mp4.jpg",
+    "width": 1440,
+    "height": 1920,
+    "aspectRatio": "3:4",
+    "isVertical": true,
+    "duration": 6,
+    "tags": [
+      "CGI R&D",
+      "Procedural Shading",
+      "Personal Project"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Experimental procedural shading and CGI lighting exploration.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-41",
+    "title": "Ancient Library",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Breakdown",
+    "filename": "Ancient-Library-Upscale.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Ancient-Library-Upscale.mp4",
+    "posterSrc": "/posters/poster_personal_ancient_library_upscale_mp4.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 3.3,
+    "tags": [
+      "Environment CGI",
+      "Personal R&D",
+      "3D Architecture",
+      "BTS Breakdown"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Photorealistic 3D ancient library environment exploration and upscale render. Includes full Behind-the-Scenes / Making Of video breakdown.",
+    "makingOfVideoSrc": "/local-videos/PersonalProjects/Making of the Ancient Library/FInalMakingOF.mp4",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-42",
+    "title": "Strings",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "3D Motion Graphics",
+    "filename": "BALL AND STRINGS.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/BALL%20AND%20STRINGS.mp4",
+    "posterSrc": "/posters/poster_personal_ball_and_strings_mp4.jpg",
+    "width": 1920,
+    "height": 804,
+    "aspectRatio": "1920:804",
+    "isVertical": false,
+    "duration": 3.3,
+    "tags": [
+      "Rigid Body",
+      "Cloth & Dynamics",
+      "Physics Sim"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Dynamic cloth collision and string physics simulation in Blender.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-43",
+    "title": "RoboticFly",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "SciFi Animation",
+    "filename": "BEETLE.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/BEETLE.mp4",
+    "posterSrc": "/posters/poster_personal_beetle_mp4.jpg",
+    "width": 1920,
+    "height": 1644,
+    "aspectRatio": "1920:1644",
+    "isVertical": false,
+    "duration": 8,
+    "tags": [
+      "Hard-Surface",
+      "Automotive CGI",
+      "Studio Lighting"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Detailed Volkswagen Beetle hard-surface modeling, metallic lacquer paint shading, and studio lighting setup.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-44",
+    "title": "Product Render",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Product Animation",
+    "filename": "Bottle-Reneder_apo8.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Bottle-Reneder_apo8.mp4",
+    "posterSrc": "/posters/poster_personal_bottle_reneder_apo8_mp4.jpg",
+    "width": 1080,
+    "height": 1080,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "duration": 2.4,
+    "tags": [
+      "Product Lookdev",
+      "Personal R&D",
+      "Glass Shading"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Procedural glass shading and liquid lookdev render for Apo8 bottle design.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-45",
+    "title": "Sci-Fi Starship Concept",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Product Animation",
+    "filename": "COOL SHIP.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/COOL%20SHIP.mp4",
+    "posterSrc": "/posters/poster_personal_cool_ship_mp4.jpg",
+    "width": 1920,
+    "height": 1920,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "duration": 7,
+    "tags": [
+      "Sci-Fi Vehicle",
+      "Hard-Surface Modeling",
+      "Lookdev"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Conceptual sci-fi starship hard-surface modeling with panel detailing and thruster volumetric glow.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-46",
+    "title": "Focal Lens",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "3D Motion Graphics",
+    "filename": "FOCAL VIEW.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/FOCAL%20VIEW.mp4",
+    "posterSrc": "/posters/poster_personal_focal_view_mp4.jpg",
+    "width": 1350,
+    "height": 1080,
+    "aspectRatio": "1350:1080",
+    "isVertical": false,
+    "duration": 3.3,
+    "tags": [
+      "Camera Lens Study",
+      "Cinematography",
+      "Depth of Field"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Cinematographic study on focal lengths, depth-of-field rack focusing, and lens distortion.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-47",
+    "title": "Mechanical Keyboard CGI",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Product & CGI",
+    "filename": "KEYBOARD ANIMATION.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/KEYBOARD%20ANIMATION.mp4",
+    "posterSrc": "/posters/poster_personal_keyboard_animation_mp4.jpg",
+    "width": 1920,
+    "height": 1644,
+    "aspectRatio": "1920:1644",
+    "isVertical": false,
+    "duration": 5,
+    "tags": [
+      "Commercial Product",
+      "Mechanical CGI",
+      "Keycap Lighting"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "High-detail mechanical keyboard CAD render with RGB keycap illumination and tactile actuation motion.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-48",
+    "title": "Point Cloud Animation",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "3D Motion Graphics",
+    "filename": "PointCloudRender.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/PointCloudRender.mp4",
+    "posterSrc": "/posters/poster_personal_pointcloudrender_mp4.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 4.1,
+    "tags": [
+      "Point Cloud",
+      "Procedural VFX",
+      "Abstract CGI"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Experimental point cloud particle generation and volumetric shading render.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-49",
+    "title": "Product Animation",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Product & CGI",
+    "filename": "Rendered.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Rendered.mp4",
+    "posterSrc": "/posters/poster_personal_rendered_mp4.jpg",
+    "width": 1644,
+    "height": 1920,
+    "aspectRatio": "1644:1920",
+    "isVertical": true,
+    "duration": 1.4,
+    "tags": [
+      "Cycles X",
+      "Node Shading",
+      "Lighting"
+    ],
+    "tools": [
+      "Blender",
+      "Cycles X"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Node-based procedural material lookdev and Cycles X global illumination render.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-50",
+    "title": "3D Motion Graphics",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "3D Motion Graphics",
+    "filename": "SPHERES.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/SPHERES.mp4",
+    "posterSrc": "/posters/poster_personal_spheres_mp4.jpg",
+    "width": 1350,
+    "height": 1080,
+    "aspectRatio": "1350:1080",
+    "isVertical": false,
+    "duration": 3.3,
+    "tags": [
+      "GeoNodes",
+      "Procedural Animation",
+      "Abstract"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Geometry Nodes driven procedural sphere motion design and iridescent material shading.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-51",
+    "title": "3D Motion Graphics",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "3D Motion Graphics",
+    "filename": "VIDEO RENDER.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/VIDEO%20RENDER.mp4",
+    "posterSrc": "/posters/poster_personal_video_render_mp4.jpg",
+    "width": 1080,
+    "height": 1080,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "duration": 3.3,
+    "tags": [
+      "Compositing",
+      "EXR Multi-pass",
+      "VFX"
+    ],
+    "tools": [
+      "After Effects",
+      "Blender"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Multi-pass EXR compositing, chromatic grading, and post-processing lighting pipeline.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-52",
+    "title": "Vintage Fan",
+    "client": "Personal Project",
+    "folder": "PersonalProjects",
+    "category": "Storytelling",
+    "filename": "VINATGE.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/VINATGE.mp4",
+    "posterSrc": "/posters/poster_personal_vinatge_mp4.jpg",
+    "width": 3000,
+    "height": 1080,
+    "aspectRatio": "3000:1080",
+    "isVertical": false,
+    "duration": 3.3,
+    "tags": [
+      "Vintage CGI",
+      "Leather & Brass PBR",
+      "Retro Aesthetics"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Photorealistic vintage analog camera render with aged leather texture maps and brass wear.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-53",
+    "title": "Matchmove – Desert Vehicle",
+    "client": "Personal Project",
+    "folder": "PersonalProjects/Match Move Projects",
+    "category": "Camera Tracking",
+    "filename": "Desert-Vehicle.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Match Move Projects/Desert-Vehicle.mp4",
+    "posterSrc": "/posters/poster_matchmove_desert_vehicle_mp4.jpg",
+    "width": 2560,
+    "height": 1440,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 11,
+    "tags": [
+      "SynthEyes",
+      "3D Camera Tracking",
+      "Live Action Matchmove"
+    ],
+    "tools": [
+      "SynthEyes",
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Precision SynthEyes camera tracking solve and live-action matchmove for Desert Vehicle.",
+    "targetCategory": "Match Move",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-54",
+    "title": "Matchmove – Factory Refined",
+    "client": "Personal Project",
+    "folder": "PersonalProjects/Match Move Projects",
+    "category": "Camera Tracking",
+    "filename": "Factory-Refined.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Match Move Projects/Factory-Refined.mp4",
+    "posterSrc": "/posters/poster_matchmove_factory_refined_mp4.jpg",
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 26,
+    "tags": [
+      "SynthEyes",
+      "3D Camera Tracking",
+      "Live Action Matchmove"
+    ],
+    "tools": [
+      "SynthEyes",
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Precision SynthEyes camera tracking solve and live-action matchmove for Factory Refined.",
+    "targetCategory": "Match Move",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+
+  {
+    "id": "proj-56",
+    "title": "Matchmove – Object Solve",
+    "client": "Personal Project",
+    "folder": "PersonalProjects/Match Move Projects",
+    "category": "Camera Tracking",
+    "filename": "Object-Solve.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Match Move Projects/Object-Solve.mp4",
+    "posterSrc": "/posters/poster_matchmove_object_solve_mp4.jpg",
+    "width": 2560,
+    "height": 1440,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 10.6,
+    "tags": [
+      "SynthEyes",
+      "3D Camera Tracking",
+      "Live Action Matchmove"
+    ],
+    "tools": [
+      "SynthEyes",
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Precision SynthEyes camera tracking solve and live-action matchmove for Object Solve.",
+    "targetCategory": "Match Move",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-57",
+    "title": "Matchmove – Sidewalk",
+    "client": "Personal Project",
+    "folder": "PersonalProjects/Match Move Projects",
+    "category": "Camera Tracking",
+    "filename": "Sidewalk.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Match Move Projects/Sidewalk.mp4",
+    "posterSrc": "/posters/poster_matchmove_sidewalk_mp4.jpg",
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "isVertical": true,
+    "duration": 15,
+    "tags": [
+      "SynthEyes",
+      "3D Camera Tracking",
+      "Live Action Matchmove"
+    ],
+    "tools": [
+      "SynthEyes",
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Precision SynthEyes camera tracking solve and live-action matchmove for Sidewalk.",
+    "targetCategory": "Match Move",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-58",
+    "title": "Matchmove – StreetWalk",
+    "client": "Personal Project",
+    "folder": "PersonalProjects/Match Move Projects",
+    "category": "Camera Tracking",
+    "filename": "StreetWalk.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Match Move Projects/StreetWalk.mp4",
+    "posterSrc": "/posters/poster_matchmove_streetwalk_mp4.jpg",
+    "width": 1280,
+    "height": 720,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 14,
+    "tags": [
+      "SynthEyes",
+      "3D Camera Tracking",
+      "Live Action Matchmove"
+    ],
+    "tools": [
+      "SynthEyes",
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Precision SynthEyes camera tracking solve and live-action matchmove for StreetWalk.",
+    "targetCategory": "Match Move",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-59",
+    "title": "Matchmove – Handheld Object Track",
+    "client": "Personal Project",
+    "folder": "PersonalProjects/Match Move Projects",
+    "category": "Camera Tracking",
+    "filename": "HandheldObjecttrack.mp4",
+    "videoSrc": "/local-videos/PersonalProjects/Match Move Projects/HandheldObjecttrack.mp4",
+    "posterSrc": "/posters/poster_matchmove_handheldobjecttrack_mp4.jpg",
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "duration": 15.6,
+    "tags": [
+      "SynthEyes",
+      "Handheld Tracking",
+      "Object Matchmove"
+    ],
+    "tools": [
+      "SynthEyes",
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Supervised SynthEyes 3D object tracking solve on complex handheld camera motion.",
+    "targetCategory": "Match Move",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-60",
+    "title": "Alienate Character Sculpt",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Character Creation",
+    "filename": "AlienateCharacter.png",
+    "posterSrc": "/stills/AlienateCharacter.png",
+    "width": 1080,
+    "height": 1350,
+    "aspectRatio": "4:5",
+    "isVertical": true,
+    "tags": [
+      "ZBrush",
+      "Character CGI",
+      "Digital Sculpting"
+    ],
+    "tools": [
+      "ZBrush",
+      "Blender",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "High-density digital character sculpt with custom skin detail maps and anatomical precision.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-61",
+    "title": "Alienate Sci-Fi Environment",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Stills & Art",
+    "filename": "AlienateEnvironment.png",
+    "posterSrc": "/stills/AlienateEnvironment.png",
+    "width": 1080,
+    "height": 1350,
+    "aspectRatio": "4:5",
+    "isVertical": true,
+    "tags": [
+      "Environment CGI",
+      "Atmospheric Lookdev",
+      "Sci-Fi World"
+    ],
+    "tools": [
+      "Blender",
+      "Photoshop",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Atmospheric alien planet environment render featuring volumetric fog and alien flora.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Primary"
+  },
+  {
+    "id": "proj-62",
+    "title": "Luxe Cosmetics Product Render",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "Product & CGI",
+    "filename": "Beauty-Product.png",
+    "posterSrc": "/stills/Beauty-Product.png",
+    "width": 1420,
+    "height": 1920,
+    "aspectRatio": "3:4",
+    "isVertical": true,
+    "tags": [
+      "Product CGI",
+      "Glass Shading",
+      "Cosmetics"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "High-end cosmetics glass bottle render with caustic transmission and studio lighting.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-66",
+    "title": "Cyber Peripheral Concept",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "Product & CGI",
+    "filename": "Concept-Peripheral.png",
+    "posterSrc": "/stills/Concept-Peripheral.png",
+    "width": 1080,
+    "height": 1080,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "tags": [
+      "Tech Product",
+      "Hard-Surface",
+      "CAD Render"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "Photoshop"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Futuristic computer peripheral hardware design with custom ergonomic curves and PBR rubber grips.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-67",
+    "title": "Golden Cyber Robot",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Stills & Art",
+    "filename": "GOLDEN_ROBO_2.png",
+    "posterSrc": "/stills/GOLDEN_ROBO_2.png",
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "tags": [
+      "Gold Metallic PBR",
+      "Robot CGI",
+      "Cyberpunk"
+    ],
+    "tools": [
+      "Blender",
+      "ZBrush",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "High-polish gold specular robot model with custom joint mechanics and studio light setup.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-68",
+    "title": "Lotus Organic 3D",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Stills & Art",
+    "filename": "Lotus.png",
+    "posterSrc": "/stills/Lotus.png",
+    "width": 1080,
+    "height": 1080,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "tags": [
+      "Organic CGI",
+      "Procedural Foliage",
+      "Nature Lookdev"
+    ],
+    "tools": [
+      "Blender",
+      "Photoshop"
+    ],
+    "role": "3D Gernalist",
+    "description": "Procedural sub-surface scattering render of lotus petals with realistic water droplet condensation.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-69",
+    "title": "Product Lighting",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Stills & Art",
+    "filename": "ProdutRender.png",
+    "posterSrc": "/stills/ProdutRender.png",
+    "width": 1350,
+    "height": 1080,
+    "aspectRatio": "1350:1080",
+    "isVertical": false,
+    "tags": [
+      "Product Render",
+      "FMCG CGI",
+      "Studio Lighting"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Clean commercial product studio render with dynamic rim lighting and reflections.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-70",
+    "title": "RobotMan Mech Character",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "Lighting & Render",
+    "filename": "RobotMan.png",
+    "posterSrc": "/stills/RobotMan.png",
+    "width": 1080,
+    "height": 1350,
+    "aspectRatio": "4:5",
+    "isVertical": true,
+    "tags": [
+      "Mech Character",
+      "ZBrush Sculpting",
+      "BTS Breakdown"
+    ],
+    "tools": [
+      "ZBrush",
+      "Blender",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "Full-body mechanical character design and CGI lookdev. Includes full process timelapse breakdown video.",
+    "isStill": true,
+    "makingOfVideoSrc": "/local-videos/Images/RobotMan-Making.mp4",
+    "targetCategory": "3D Stills",
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-71",
+    "title": "Sci-Fi Environment Asset",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "Asset Previz",
+    "filename": "Sci-Enviorment Asset.png",
+    "posterSrc": "/stills/Sci-Enviorment Asset.png",
+    "width": 1645,
+    "height": 1920,
+    "aspectRatio": "1645:1920",
+    "isVertical": true,
+    "tags": [
+      "Sci-Fi Asset",
+      "Hard-Surface",
+      "Modular CGI"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "Modular sci-fi environment asset modeling with panel lines and weathered paint shader.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-72",
+    "title": "RobotMan",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "Asset Previz",
+    "filename": "SciRobot.png",
+    "posterSrc": "/stills/SciRobot.png",
+    "width": 1080,
+    "height": 1350,
+    "aspectRatio": "4:5",
+    "isVertical": true,
+    "tags": [
+      "Mech Unit",
+      "Hard-Surface Modeling",
+      "PBR Materials"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Armored sci-fi battle robot design with wear-and-tear edge damage textures.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-73",
+    "title": "Tribal Character",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Character Creation",
+    "filename": "TribalMan.png",
+    "posterSrc": "/stills/TribalMan.png",
+    "width": 1080,
+    "height": 1080,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "tags": [
+      "ZBrush",
+      "Character Sculpt",
+      "Anatomy Study"
+    ],
+    "tools": [
+      "ZBrush",
+      "Blender",
+      "Photoshop"
+    ],
+    "role": "3D Gernalist",
+    "description": "Character maquette sculpt exploring tribal ornamentations, headgear geometry, and anatomical form.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "proj-74",
+    "title": "3D Viusalization- Ganpati",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "AREL(Ganpati).mp4",
+    "videoSrc": "/local-videos/OIAI/AREL(Ganpati).mp4",
+    "posterSrc": "/posters/poster_oiai_arel_ganpati__mp4.jpg",
+    "width": 2880,
+    "height": 1218,
+    "aspectRatio": "21:9",
+    "isVertical": false,
+    "duration": 6.7,
+    "tags": [
+      "OIAI Campaign",
+      "3D Motion",
+      "Festival CGI"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "Festive 3D CGI campaign motion graphics for OIAI AREL Ganpati.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-78",
+    "title": "3D Viusalization- TMPL",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "TMPL(Cabinet).mp4",
+    "videoSrc": "/local-videos/OIAI/TMPL(Cabinet).mp4",
+    "posterSrc": "/posters/poster_oiai_tmpl_cabinet__mp4.jpg",
+    "width": 2880,
+    "height": 1218,
+    "aspectRatio": "21:9",
+    "isVertical": false,
+    "duration": 6.7,
+    "tags": [
+      "OIAI Campaign",
+      "Product CGI",
+      "Interior Lighting"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "3D cabinet product lookdev and interior lighting design for TMPL.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-79",
+    "title": "3D Viusalization- MeetingRoom",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "TMPL(Meeting Room).mp4",
+    "videoSrc": "/local-videos/OIAI/TMPL(Meeting%20Room).mp4",
+    "posterSrc": "/posters/poster_oiai_tmpl_meeting_room__mp4.jpg",
+    "width": 2880,
+    "height": 1218,
+    "aspectRatio": "21:9",
+    "isVertical": false,
+    "duration": 3.3,
+    "tags": [
+      "OIAI Campaign",
+      "3D Architecture",
+      "Lighting"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Commercial 3D meeting room spatial visualization.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-80",
+    "title": "3D Viusalization- CorridorArea",
+    "client": "OIAI",
+    "folder": "OIAI",
+    "category": "3D Viusalization",
+    "filename": "TMPL(PUSH_IN).mp4",
+    "videoSrc": "/local-videos/OIAI/TMPL(PUSH_IN).mp4",
+    "posterSrc": "/posters/poster_oiai_tmpl_push_in__mp4.jpg",
+    "width": 2880,
+    "height": 1214,
+    "aspectRatio": "21:9",
+    "isVertical": false,
+    "duration": 6.7,
+    "tags": [
+      "OIAI Campaign",
+      "3D Motion",
+      "Cinematic"
+    ],
+    "tools": [
+      "Blender",
+      "After Effects"
+    ],
+    "role": "3D Gernalist",
+    "description": "Spatial camera sweep and push-in render for TMPL.",
+    "targetCategory": "CGI",
+    "isStill": false,
+    "priority": "Tertiary"
+  },
+  {
+    "id": "proj-camera-angles",
+    "title": "Camera Poduct",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "Product & CGI",
+    "filename": "Camera-1.png",
+    "posterSrc": "/stills/Camera-1.png",
+    "galleryImages": [
+      "/stills/Camera-1.png",
+      "/stills/Camera-2.png",
+      "/stills/Camera-3.png"
+    ],
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "isVertical": false,
+    "tags": [
+      "Multi-Angle Study",
+      "Studio Lighting",
+      "Hard-Surface",
+      "3D Camera CAD"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "Photoshop"
+    ],
+    "role": "3D Gernalist",
+    "description": "Multi-angle studio visualization of custom 3D camera CAD model. Includes 3 high-detail renders covering macro lens reflections, aluminum chassis texture passes, and rack focus depth-of-field.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Secondary"
+  },
+  {
+    "id": "still-turtle",
+    "title": "Turtle Character Sculpt",
+    "client": "Personal Artwork",
+    "folder": "Images",
+    "category": "3D Character & Sculpting",
+    "filename": "TurtleCharcter.png",
+    "posterSrc": "/stills/TurtleCharcter.png",
+    "width": 2048,
+    "height": 2048,
+    "aspectRatio": "1:1",
+    "isVertical": false,
+    "tags": [
+      "Character Sculpt",
+      "ZBrush Detailing",
+      "PBR Materials",
+      "3D Anatomy"
+    ],
+    "tools": [
+      "ZBrush",
+      "Blender",
+      "Substance Painter"
+    ],
+    "role": "3D Gernalist",
+    "description": "High-density procedural character sculpt of a stylised turtle featuring detailed shell texturing and organic skin shader lookdev.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Primary"
+  },
+  {
+    "id": "still-product-range",
+    "title": "Westside Beauty Product Range",
+    "client": "Westside",
+    "folder": "Images",
+    "category": "Product & CGI",
+    "filename": "Product Range.png",
+    "posterSrc": "/stills/Product Range.png",
+    "width": 1620,
+    "height": 1489,
+    "aspectRatio": "1620:1489",
+    "isVertical": false,
+    "tags": [
+      "Product CGI",
+      "Packaging Design",
+      "Westside Beauty",
+      "Mother's Day CGI"
+    ],
+    "tools": [
+      "Blender",
+      "Substance Painter",
+      "After Effects"
+    ],
+    "role": "Senior Viusalizer & 3D Gernalist",
+    "description": "Custom 3D cosmetics & skincare packaging product range created for the Westside Mother's Day commercial CGI campaign.",
+    "isStill": true,
+    "targetCategory": "3D Stills",
+    "priority": "Primary"
+  }
+]

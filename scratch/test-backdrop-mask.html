@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { margin: 0; background: #111; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    .bg { width: 600px; height: 400px; background: linear-gradient(45deg, red, yellow, green, blue); position: relative; }
+    .filter-layer {
+      position: absolute; inset: 0;
+      backdrop-filter: grayscale(100%);
+      -webkit-backdrop-filter: grayscale(100%);
+      mask-image: radial-gradient(circle 120px at 50% 50%, transparent 0%, transparent 60%, black 100%);
+      -webkit-mask-image: radial-gradient(circle 120px at 50% 50%, transparent 0%, transparent 60%, black 100%);
+    }
+  </style>
+</head>
+<body>
+  <div class="bg">
+    <div class="filter-layer"></div>
+  </div>
+</body>
+</html>
