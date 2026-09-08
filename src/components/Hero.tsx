@@ -358,11 +358,11 @@ export const Hero: React.FC<HeroProps> = ({ onExploreWorks, onOpenShowreel }) =>
         </motion.div>
       )}
 
-      {/* 1. Base Full-Color Background Video (D:\Vishwa.D.Sahil\Oktobuzz\2026\Videos\StartPage\Page-1.mp4) */}
+      {/* 1. Base Full-Color Background Video */}
       <div className="absolute inset-0 w-full h-full overflow-hidden pointer-events-none z-0">
         <video
           ref={videoRef}
-          src="/local-videos/StartPage/Page-1-TV.mp4"
+          src="/hero/Page-1-TV.mp4"
           poster="/hero/poster-tv.jpg"
           autoPlay
           loop

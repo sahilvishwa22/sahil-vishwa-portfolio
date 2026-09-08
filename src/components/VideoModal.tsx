@@ -18,6 +18,7 @@ export const VideoModal: React.FC<VideoModalProps> = ({ project, onClose, onNext
   const [activeVideoSrc, setActiveVideoSrc] = React.useState<string>(project?.videoSrc || '');
   const [activeGalleryIndex, setActiveGalleryIndex] = React.useState<number>(0);
   const [isFullscreenLightbox, setIsFullscreenLightbox] = React.useState<boolean>(false);
+  const [videoError, setVideoError] = React.useState<boolean>(false);
 
   const [currentTime, setCurrentTime] = React.useState<number>(0);
   const [duration, setDuration] = React.useState<number>(0);
@@ -100,6 +101,7 @@ export const VideoModal: React.FC<VideoModalProps> = ({ project, onClose, onNext
       setActiveVideoSrc(project.videoSrc || project.makingOfVideoSrc || '');
       setActiveGalleryIndex(0);
       setIsFullscreenLightbox(false);
+      setVideoError(false);
     }
   }, [project]);
 
@@ -431,6 +433,20 @@ export const VideoModal: React.FC<VideoModalProps> = ({ project, onClose, onNext
                   </>
                 )}
               </>
+            ) : videoError ? (
+              <div className="relative w-full h-full flex flex-col items-center justify-center p-4">
+                <img
+                  src={project.posterSrc}
+                  alt={project.title}
+                  className={`object-contain rounded-xl shadow-2xl ${
+                    project.isVertical ? 'max-h-[75vh] sm:max-h-[80vh] w-auto' : 'max-h-[75vh] sm:max-h-[80vh] w-auto max-w-full'
+                  }`}
+                />
+                <div className="absolute bottom-6 px-4 py-2 rounded-full bg-black/80 backdrop-blur-md border border-white/20 text-xs font-mono text-emerald-400 flex items-center gap-2 shadow-2xl">
+                  <Sparkles className="w-3.5 h-3.5" />
+                  <span>High-Resolution Commercial Still Artwork</span>
+                </div>
+              </div>
             ) : (
               <>
                 <video
@@ -442,6 +458,7 @@ export const VideoModal: React.FC<VideoModalProps> = ({ project, onClose, onNext
                   loop
                   muted={isMuted}
                   onClick={togglePlay}
+                  onError={() => setVideoError(true)}
                   onTimeUpdate={() => {
                     if (videoRef.current && !isScrubbing) {
                       setCurrentTime(videoRef.current.currentTime);

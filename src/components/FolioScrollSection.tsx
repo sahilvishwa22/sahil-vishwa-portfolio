@@ -402,6 +402,7 @@ export const FolioScrollSection: React.FC<FolioScrollSectionProps> = ({ onSelect
                       loop
                       muted
                       playsInline
+                      preload="auto"
                       className={`absolute inset-0 w-full h-full object-cover pointer-events-none block rounded-2xl sm:rounded-3xl transition-opacity duration-300 ${
                         hoveredIndex === idx ? 'opacity-100' : 'opacity-0'
                       }`}

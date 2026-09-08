@@ -66,25 +66,24 @@ export const ShowreelSection: React.FC = () => {
     };
     mainVideo.addEventListener('ended', onEnded);
 
-    const startPlaying = () => {
-      if (mainVideo) mainVideo.play().catch(() => {});
-      if (ambVideo) ambVideo.play().catch(() => {});
-    };
+    // Only stream and decode video when the showreel section is near/in viewport
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          if (mainVideo && mainVideo.paused) mainVideo.play().catch(() => {});
+          if (ambVideo && ambVideo.paused) ambVideo.play().catch(() => {});
+        } else {
+          if (mainVideo && !mainVideo.paused) mainVideo.pause();
+          if (ambVideo && !ambVideo.paused) ambVideo.pause();
+        }
+      });
+    }, { rootMargin: '250px' });
 
-    startPlaying();
-
-    // Gesture unlock for strict autoplay policies
-    const unlock = () => {
-      startPlaying();
-      window.removeEventListener('pointerdown', unlock);
-      window.removeEventListener('scroll', unlock);
-      window.removeEventListener('touchstart', unlock);
-    };
-    window.addEventListener('pointerdown', unlock, { once: true });
-    window.addEventListener('scroll', unlock, { once: true });
-    window.addEventListener('touchstart', unlock, { once: true });
+    const sectionEl = document.getElementById('showreel');
+    if (sectionEl) observer.observe(sectionEl);
 
     return () => {
+      observer.disconnect();
       mainVideo.removeEventListener('timeupdate', syncAmbient);
       mainVideo.removeEventListener('play', syncAmbient);
       mainVideo.removeEventListener('seeking', syncAmbient);
@@ -338,7 +337,7 @@ export const ShowreelSection: React.FC = () => {
               loop
               muted
               playsInline
-              preload="auto"
+              preload="none"
               className="w-full h-full object-cover scale-110 sm:scale-115 transform-gpu"
             />
           </div>
@@ -357,7 +356,7 @@ export const ShowreelSection: React.FC = () => {
               loop
               muted
               playsInline
-              preload="auto"
+              preload="metadata"
               className="w-full h-full object-cover object-center block group-hover:scale-[1.02] transition-transform duration-700 ease-out"
             />
 
