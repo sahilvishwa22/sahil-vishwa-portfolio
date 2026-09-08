@@ -137,20 +137,21 @@ export const ALL_PROJECTS: Project[] = [
 });
 
 export const PROFILE_INFO = {
-  name: "Sahil Vishwa",
+  name: "Sahil Vishwakarma",
   formalName: "Sahil Vishwakarma",
-  title: "Senior Visualizer & 3D Generalist",
+  title: "Senior Visualizer, Motion Graphic Artist and 3D Generalist",
   location: "Dombivli, India",
   email: "sahilvishwa78628@gmail.com",
   phone: "+91 9892142797",
   whatsapp: "https://wa.me/919892142797",
   resumePath: "/resume/Sahil_Vishwa_Resume.pdf",
-  bio: "Senior Visualizer and 3D Generalist with 4+ years of experience across graphic design, 3D visualization, CGI compositing, and motion graphics. Specializing in CGI content for brands like Westside, Vithobha Healthcare, ACCA, OIAI, A&H, and Xeno's Play Space.",
+  bio: "I am Sahil Vishwakarma, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience. I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at Oktobuzz. I've worked on visual content and CGI projects for brands including Westside, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi. I started my career in 2022 as a Graphic Designer at PentableU in BKC. While working there, I became interested in 3D and started learning Blender on my own, eventually moving into 3D and CGI professionally.",
   education: [
     {
       degree: "Bachelor of Mass Media (BMM)",
-      institution: "Mumbai University",
-      period: "2019 – 2022"
+      institution: "University of Mumbai",
+      period: "2019 – 2022",
+      description: "Bachelor of Mass Media from University of Mumbai."
     }
   ],
   experience: [
@@ -158,36 +159,38 @@ export const PROFILE_INFO = {
       role: "Senior Visualizer & 3D Motion Graphic Artist",
       company: "Oktobuzz",
       period: "2024 – Present",
-      description: "Handling CGI, 3D visualization, motion graphics, and pass compositing. Primary focus on Westside CGI campaigns—experimenting with social trends and creating visual content used across Westside retail stores in India—along with work for Vithobha Healthcare, ACCA, OIAI, A&H, Xeno's Play Space, and promotional campaigns for Chetan Bhagat and Amish Tripathi."
+      description: "Working across CGI, 3D visualization, motion graphics, compositing and AI-assisted content. I mainly handle CGI projects for Westside, where I have creative freedom to experiment with ideas and trends while keeping them aligned with the brand. I've also worked on projects for Vithobha Healthcare, ACCA, OIAI, A&H, Xeno's Play Space and book promotions for Chetan Bhagat and Amish Tripathi."
     },
     {
       role: "Graphic Designer",
       company: "PentableU (BKC)",
       period: "2022 – 2024",
-      description: "Developed core graphic design, social media content, UGC videos, poster design, print processes, and client management over 2 years. Taught himself Blender on weekends and created low-poly 3D assets for indie game developers."
+      description: "Built my foundation in graphic design, social media content, UGC-style videos, poster design, client handling and print. Alongside my work, I started learning Blender on my own and took on small freelance projects creating low-poly, game-ready 3D assets for indie game developers."
     }
   ],
   softwareArsenal: [
-    { name: "Blender", level: "Expert / Daily Driver", category: "3D Modeling & Rendering", logo: "/logos/blender.svg" },
-    { name: "Substance Painter", level: "Advanced / Daily Driver", category: "PBR & Texturing", logo: "/logos/substance-painter.svg" },
-    { name: "ZBrush", level: "Advanced", category: "Digital Sculpting", logo: "/logos/zbrush.svg" },
-    { name: "Marvelous Designer", level: "Advanced", category: "Cloth Simulation", logo: "/logos/marvelous-designer.svg" },
-    { name: "JangaFX Suite", level: "Advanced", category: "EmberGen, LiquiGen & GeoGen", logo: "/logos/jangafx.svg" },
-    { name: "Adobe Suite", level: "Expert / Daily Driver", category: "Ae, Ps, Ai, Pr", logo: "/logos/adobe-suite.svg" },
-    { name: "Syntheyes", level: "Advanced", category: "3D Camera Tracking", logo: "/logos/syntheyes.svg" },
-    { name: "ComfyUI", level: "Expert / Custom Workflows", category: "Custom AI Workflows", logo: "/logos/comfyui.svg" },
-    { name: "Freepik AI Suite", level: "Daily Driver", category: "AI Production Tasks", logo: "/logos/freepik.svg" }
+    { name: "Blender", level: "3D Modeling & Rendering", category: "3D Modeling & Rendering", logo: "/logos/blender.svg" },
+    { name: "Substance Painter", level: "PBR & Texturing", category: "PBR & Texturing", logo: "/logos/substance-painter.svg" },
+    { name: "ZBrush", level: "Digital Sculpting", category: "Digital Sculpting", logo: "/logos/zbrush.svg" },
+    { name: "Marvelous Designer", level: "Cloth Simulation", category: "Cloth Simulation", logo: "/logos/marvelous-designer.svg" },
+    { name: "JangaFX Suite", level: "Volumetric FX (EmberGen/LiquiGen)", category: "Realtime FX", logo: "/logos/jangafx.svg" },
+    { name: "Adobe Suite", level: "Ae, Ps, Ai, Pr", category: "Compositing & Post", logo: "/logos/adobe-suite.svg" },
+    { name: "Syntheyes", level: "3D Camera Tracking", category: "3D Camera Tracking", logo: "/logos/syntheyes.svg" },
+    { name: "ComfyUI", level: "AI Node Workflows", category: "Custom AI Workflows", logo: "/logos/comfyui.svg" },
+    { name: "Freepik AI Suite", level: "Image Generation & Upscaling", category: "AI Production", logo: "/logos/freepik.svg" }
   ],
   skills: [
-    "CGI Commercial Advertising",
-    "FOOH (Fake Out Of Home) VFX",
-    "Fashion & Lifestyle Motion Graphics",
-    "Hard-Surface & Organic 3D Modeling",
-    "Procedural Texturing & Shading",
-    "Cinematic Lighting & Lookdev",
-    "Digital Sculpting & Character CGI",
-    "Camera Projection & Live Matchmove",
-    "Product Renders & FMCG Packaging",
-    "Creative Direction & Storyboarding"
+    "3D CGI",
+    "Motion Graphics",
+    "3D Visualization",
+    "CGI Compositing",
+    "Shot + CGI",
+    "Complete CGI Videos",
+    "High-End 3D Model Edits",
+    "UGC-Style Content",
+    "Promotional / Sale Content",
+    "AI-Assisted Creative Workflows",
+    "Brainstorming Creative Ideas",
+    "Storyboarding"
   ]
 };

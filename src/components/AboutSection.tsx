@@ -41,15 +41,15 @@ const SOFTWARE_DETAILS: Record<string, SoftwareDetails> = {
   Blender: {
     name: 'Blender',
     category: '3D Modeling & Rendering',
-    level: 'Expert / Daily Driver',
-    description: 'Primary 3D creation suite used for hard-surface modeling, procedural shading, Cycles rendering, compositing, and CGI video production.',
+    level: '3D Modeling & Rendering',
+    description: 'Primary 3D suite used for hard-surface modeling, procedural shading, Cycles rendering, compositing, and CGI production.',
     plugins: ['Cycles', 'GeoNodes', 'HardOps', 'BoxCutter'],
     workflowHighlights: ['3D scene lighting setups', 'Procedural shader node networks', 'Camera tracking & matchmove']
   },
   'Substance Painter': {
     name: 'Substance Painter',
     category: 'PBR & Texturing',
-    level: 'Advanced / Daily Driver',
+    level: 'PBR & Texturing',
     description: '3D texturing suite for PBR material authoring, realistic surface aging, edge wear, and custom smart materials.',
     plugins: ['Smart Materials', 'Iray Render', 'Anchor Points'],
     workflowHighlights: ['PBR texture maps', 'Material aging & wear', 'Metallic & roughness maps']
@@ -57,7 +57,7 @@ const SOFTWARE_DETAILS: Record<string, SoftwareDetails> = {
   ZBrush: {
     name: 'ZBrush',
     category: 'Digital Sculpting',
-    level: 'Advanced',
+    level: 'Digital Sculpting',
     description: 'Digital sculpting software for high-poly character models, organic detailing, and displacement map baking.',
     plugins: ['DynaMesh', 'ZRemesher', 'Decimation Master'],
     workflowHighlights: ['High-poly sculpts', 'Displacement baking', 'Asset detailing']
@@ -65,7 +65,7 @@ const SOFTWARE_DETAILS: Record<string, SoftwareDetails> = {
   'Marvelous Designer': {
     name: 'Marvelous Designer',
     category: 'Cloth Simulation',
-    level: 'Advanced',
+    level: 'Cloth Simulation',
     description: '3D garment patterning and dynamic cloth simulation software used for apparel and fashion motion visuals.',
     plugins: ['Pattern Drafting', 'Fabric Physics Engine'],
     workflowHighlights: ['Fabric drapes', 'Dynamic cloth motion', 'Garment CGI']
@@ -73,40 +73,40 @@ const SOFTWARE_DETAILS: Record<string, SoftwareDetails> = {
   'JangaFX Suite': {
     name: 'JangaFX Suite',
     category: 'Realtime FX Simulation',
-    level: 'Advanced',
-    description: 'Real-time volumetric simulation suite. Mostly used for EmberGen (fire/smoke VFX), LiquiGen (fluids), and GeoGen (procedural terrain generation).',
+    level: 'Realtime FX',
+    description: 'Real-time volumetric simulation suite. Used for EmberGen (fire/smoke VFX), LiquiGen (fluids), and GeoGen (procedural terrain generation).',
     plugins: ['EmberGen', 'LiquiGen', 'GeoGen'],
     workflowHighlights: ['Real-time fire & smoke VFX', 'Fluid dynamic simulations', 'Procedural terrain generation']
   },
   'Adobe Suite': {
     name: 'Adobe Suite',
-    category: 'Compositing & Video Editing',
-    level: 'Expert / Daily Driver',
-    description: 'Core design and post-production stack. Mostly used for Photoshop (concept design), After Effects (compositing & motion graphics), Illustrator (vector graphics), and Premiere Pro (video editing).',
+    category: 'Compositing & Post',
+    level: 'Compositing & Post',
+    description: 'Core design and post-production stack: Photoshop (concept design), After Effects (compositing & motion graphics), Illustrator (vector graphics), and Premiere Pro (video editing).',
     plugins: ['After Effects', 'Photoshop', 'Illustrator', 'Premiere Pro'],
     workflowHighlights: ['VFX & multi-pass compositing', 'Motion graphics & video editing', 'Vector graphics & poster design']
   },
   Syntheyes: {
     name: 'Syntheyes',
     category: '3D Camera Tracking',
-    level: 'Advanced',
+    level: '3D Camera Tracking',
     description: '3D camera tracking suite used for camera solves, object tracking, lens distortion correction, and live-action VFX matchmove alignment.',
     plugins: ['Supervised Tracking', 'Automatic Tracker', 'Object Solver'],
     workflowHighlights: ['Live-action camera solves', 'Object & vehicle tracking', 'Ground plane export to Blender']
   },
   ComfyUI: {
     name: 'ComfyUI',
-    category: 'Generative AI Workflows',
-    level: 'Expert / Custom Workflows',
-    description: 'Node-based AI generation engine. Used with custom-built node workflows for targeted image, video, and texture asset generation.',
+    category: 'AI-Assisted Workflows',
+    level: 'AI Node Workflows',
+    description: 'Node-based AI generation engine used with custom node workflows for targeted image, video, and texture asset generation.',
     plugins: ['Custom Node Pipelines', 'ControlNet', 'AnimateDiff', 'IP-Adapter'],
     workflowHighlights: ['Custom node workflow design', 'Controlled image/video generation', 'AI texture & asset synthesis']
   },
   'Freepik AI Suite': {
     name: 'Freepik AI Suite',
-    category: 'Generative AI Production',
-    level: 'Daily Driver',
-    description: 'Generative AI toolset frequently used for rapid image generation, upscaling, retouching, and daily creative AI tasks.',
+    category: 'AI Production',
+    level: 'AI Production',
+    description: 'Generative AI toolset used for rapid image generation, upscaling, retouching, and daily creative AI tasks.',
     plugins: ['AI Upscaler', 'Flux Generators', 'Relight & Retouch'],
     workflowHighlights: ['Daily creative AI production', 'High-res image upscaling', 'Concept visual acceleration']
   }
@@ -304,10 +304,10 @@ export const AboutSection: React.FC = () => {
         <div>
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-950/60 border border-emerald-500/30 text-emerald-400 text-xs font-mono tracking-widest uppercase mb-4 shadow-[0_0_15px_rgba(16,185,129,0.2)]">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span>SENIOR VISUALIZER &bull; 3D GENERALIST</span>
+            <span>ABOUT ME</span>
           </div>
           <h2 className="text-3xl sm:text-5xl lg:text-6xl font-normal tracking-tight text-white leading-tight">
-            Senior Visualizer & 3D Generalist Crafting <span className="bg-gradient-to-r from-white via-neutral-200 to-emerald-400 bg-clip-text text-transparent font-medium">Brand CGI & Motion</span>
+            Senior Visualizer, Motion Graphic Artist <span className="bg-gradient-to-r from-white via-neutral-200 to-emerald-400 bg-clip-text text-transparent font-medium">& 3D Generalist</span>
           </h2>
         </div>
       </div>
@@ -354,55 +354,59 @@ export const AboutSection: React.FC = () => {
             )}
           </AnimatePresence>
           
-          {/* Paragraph 1: Background & Origins */}
+          {/* Paragraph 1: Current Work & Experience */}
           <p className="text-lg sm:text-xl text-neutral-200 leading-relaxed font-light mb-6 min-h-[70px]">
             <TypewriterText
-              plainText="I am Sahil Vishwakarma, a Senior Visualizer and 3D Generalist based in Dombivli, India. I started my career in 2022 as a Graphic Designer at PentableU in BKC, building core skills in social content, posters, UGC videos, and print processes."
+              plainText="I am Sahil Vishwakarma, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience. I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at Oktobuzz. I've worked on visual content and CGI projects for brands including Westside, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi."
               triggerKey={scanReportKey}
-              speed={6}
+              speed={5}
               delay={0}
               richJsx={
                 <>
-                  I am <strong className="text-white font-semibold underline decoration-emerald-500/50 decoration-2 underline-offset-4">Sahil Vishwakarma</strong>, a Senior Visualizer & 3D Generalist based in Dombivli, India. I started my career in 2022 as a Graphic Designer at <strong className="text-white font-semibold">PentableU (BKC)</strong>, developing core skills in graphic design, social media content, UGC videos, and print processes.
+                  I am <strong className="text-white font-semibold underline decoration-emerald-500/50 decoration-2 underline-offset-4">Sahil Vishwakarma</strong>, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience.
+                  <br /><br />
+                  I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at <strong className="text-white font-semibold">Oktobuzz</strong>. I've worked on visual content and CGI projects for brands including <strong className="text-emerald-300 font-medium">Westside</strong>, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi.
                 </>
               }
             />
           </p>
 
-          {/* Paragraph 2: Transition into 3D & Current Work */}
-          <p className="text-base sm:text-lg text-neutral-300 leading-relaxed mb-8 min-h-[90px]">
+          {/* Paragraph 2: Career Foundation & Transition to 3D */}
+          <p className="text-base sm:text-lg text-neutral-300 leading-relaxed mb-8 min-h-[70px]">
             <TypewriterText
-              plainText="Driven by curiosity for 3D, I taught myself Blender on weekends and created low-poly assets for indie game startups. In 2024, I joined Oktobuzz, focusing on CGI, motion graphics, and social content for brands like Westside."
+              plainText="I started my career in 2022 as a Graphic Designer at PentableU in BKC. While working there, I became interested in 3D and started learning Blender on my own, eventually moving into 3D and CGI professionally."
               triggerKey={scanReportKey}
-              speed={6}
+              speed={5}
               delay={1500}
               richJsx={
                 <>
-                  Fascinated by 3D, I taught myself Blender on weekends and created game-ready low-poly 3D assets for indie game developers. In 2024, I moved into a specialized 3D role at <strong className="text-white font-medium">Oktobuzz</strong>, creating CGI videos, 3D visualization, and motion graphics for brands including <strong className="text-emerald-300 font-medium">Westside</strong> (with concepts used in retail stores across India), Vithobha Healthcare, ACCA, OIAI, A&H, and Xeno's Play Space.
+                  I started my career in 2022 as a Graphic Designer at <strong className="text-white font-medium">PentableU in BKC</strong>. While working there, I became interested in 3D and started learning Blender on my own, eventually moving into 3D and CGI professionally.
                 </>
               }
             />
           </p>
 
-          {/* Marquee Clients Interactive Dock */}
+          {/* Selected Clients & Projects Dock */}
           <div className="mb-10 p-5 rounded-2xl bg-gradient-to-r from-white/[0.04] via-white/[0.02] to-transparent border border-white/10 backdrop-blur-xl relative overflow-hidden">
             <div className="flex items-center justify-between mb-3">
               <span className="text-xs font-mono uppercase tracking-wider text-neutral-400 block">
-                Brands & Campaigns &bull; Click to inspect
+                SELECTED CLIENTS & PROJECTS
               </span>
               <span className="text-[10px] font-mono text-emerald-400 bg-emerald-950/60 px-2 py-0.5 rounded border border-emerald-500/30">
-                INTERACTIVE CLIENT DOCK
+                CLIENTS & BRANDS
               </span>
             </div>
             
             <div className="flex flex-wrap items-center gap-3">
               {[
-                { name: 'Westside', desc: 'Retail & Social CGI', color: 'border-amber-500/40 text-amber-300', impact: 'CGI campaigns, social trend concepts & in-store video displays across India' },
-                { name: 'Oktobuzz', desc: 'Senior Visualizer', color: 'border-emerald-500/40 text-emerald-300', impact: 'CGI visualization, 3D motion graphics & AI-assisted creative workflows' },
-                { name: 'Vithobha', desc: 'Healthcare CGI', color: 'border-purple-500/40 text-purple-300', impact: '3D packaging renders & commercial promotional spots' },
-                { name: 'ACCA', desc: 'Motion Graphics', color: 'border-rose-500/40 text-rose-300', impact: 'Commercial motion graphics & visual brand content' },
-                { name: 'OIAI & A&H', desc: '3D Visualization', color: 'border-blue-500/40 text-blue-300', impact: 'CGI compositing, shot + CGI content & 3D model renders' },
-                { name: 'Author Promos', desc: 'Book Campaigns', color: 'border-teal-500/40 text-teal-300', impact: 'Project-based promotional videos for authors Chetan Bhagat & Amish Tripathi' }
+                { name: 'Westside', desc: 'Retail & CGI Projects', color: 'border-amber-500/40 text-amber-300', impact: 'CGI projects, social trend concepts and brand-aligned creative visuals' },
+                { name: 'Vithobha Healthcare', desc: 'Healthcare CGI', color: 'border-purple-500/40 text-purple-300', impact: '3D product renders and commercial promotion' },
+                { name: 'ACCA', desc: 'Motion Graphics', color: 'border-rose-500/40 text-rose-300', impact: 'Educational campaign motion graphics' },
+                { name: 'OIAI', desc: '3D Visualization', color: 'border-blue-500/40 text-blue-300', impact: '3D visualization, brand film and compositing' },
+                { name: 'A&H', desc: 'Brand Film', color: 'border-cyan-500/40 text-cyan-300', impact: '3D motion and brand visual content' },
+                { name: "Xeno's Play Space", desc: '3D CGI', color: 'border-emerald-500/40 text-emerald-300', impact: '3D CGI and visual graphics' },
+                { name: 'Chetan Bhagat', desc: 'Book Promotion', color: 'border-teal-500/40 text-teal-300', impact: 'Book promotion project visuals' },
+                { name: 'Amish Tripathi', desc: 'Book Promotion', color: 'border-orange-500/40 text-orange-300', impact: 'Vertical motion graphics and book promotion campaigns' }
               ].map((brand) => (
                 <button
                   key={brand.name}
@@ -429,13 +433,15 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="flex items-center gap-2">
                     <Zap className="w-4 h-4 text-emerald-400 animate-pulse" />
-                    <span><strong>{selectedClient} Experience:</strong> {[
-                      { name: 'Westside', impact: 'CGI campaigns, social trend concepts & in-store video displays across India' },
-                      { name: 'Oktobuzz', impact: 'CGI visualization, 3D motion graphics & AI-assisted creative workflows' },
-                      { name: 'Vithobha', impact: '3D packaging renders & commercial promotional spots' },
-                      { name: 'ACCA', impact: 'Commercial motion graphics & visual brand content' },
-                      { name: 'OIAI & A&H', impact: 'CGI compositing, shot + CGI content & 3D model renders' },
-                      { name: 'Author Promos', impact: 'Project-based promotional videos for authors Chetan Bhagat & Amish Tripathi' }
+                    <span><strong>{selectedClient}:</strong> {[
+                      { name: 'Westside', impact: 'CGI projects, social trend concepts and brand-aligned creative visuals' },
+                      { name: 'Vithobha Healthcare', impact: '3D product renders and commercial promotion' },
+                      { name: 'ACCA', impact: 'Educational campaign motion graphics' },
+                      { name: 'OIAI', impact: '3D visualization, brand film and compositing' },
+                      { name: 'A&H', impact: '3D motion and brand visual content' },
+                      { name: "Xeno's Play Space", impact: '3D CGI and visual graphics' },
+                      { name: 'Chetan Bhagat', impact: 'Book promotion project visuals' },
+                      { name: 'Amish Tripathi', impact: 'Vertical motion graphics and book promotion campaigns' }
                     ].find(b => b.name === selectedClient)?.impact}</span>
                   </div>
                   <button 
@@ -477,7 +483,7 @@ export const AboutSection: React.FC = () => {
                 2
               </span>
               <span className="text-xs text-neutral-400 uppercase tracking-wider font-mono block">
-                Agencies & Studios
+                Studios
               </span>
             </motion.div>
 
@@ -492,7 +498,7 @@ export const AboutSection: React.FC = () => {
                 BMM
               </span>
               <span className="text-xs text-neutral-400 uppercase tracking-wider font-mono block">
-                Mumbai University
+                University of Mumbai
               </span>
             </motion.div>
           </div>
@@ -745,22 +751,12 @@ export const AboutSection: React.FC = () => {
                 </div>
 
                 <div className="mt-6 pt-4 border-t border-white/[0.06]">
-                  <div className="flex items-center justify-between text-xs text-emerald-400 font-mono mb-2">
+                  <div className="flex items-center justify-between text-xs text-emerald-400 font-mono">
                     <span className="flex items-center gap-1.5">
                       <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
                       {sw.level}
                     </span>
                     <span className="text-[10px] text-neutral-500">INSPECT</span>
-                  </div>
-
-                  {/* Dynamic Skill Level Progress Bar */}
-                  <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden">
-                    <div 
-                      className="h-full bg-gradient-to-r from-emerald-500 to-teal-300 rounded-full transition-all duration-700"
-                      style={{
-                        width: sw.level.includes('Daily Driver') || sw.level.includes('Expert') ? '98%' : sw.level.includes('Advanced') ? '88%' : '75%'
-                      }}
-                    />
                   </div>
                 </div>
               </motion.div>
@@ -792,10 +788,10 @@ export const AboutSection: React.FC = () => {
                 <Award className="w-6 h-6" />
               </div>
               <h4 className="text-xl font-medium text-white mb-2">
-                Proven Agency Experience
+                Production Experience
               </h4>
               <p className="text-sm text-neutral-300 leading-relaxed mb-4">
-                Specialized in commercial agency environments delivering 3D CGI campaigns, social-first motion content, and visual storyboarding.
+                4+ years working across 3D CGI, motion graphics, visualization, and compositing for brands and campaigns.
               </p>
               <div className="pt-4 border-t border-white/[0.08] flex items-center gap-2 text-xs font-mono text-emerald-400">
                 <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
@@ -881,13 +877,9 @@ export const AboutSection: React.FC = () => {
                   </span>
                 </div>
 
-                <span className="text-sm font-medium text-white/90 block mb-3">
+                <span className="text-sm font-medium text-white/90 block">
                   University of Mumbai
                 </span>
-
-                <p className="text-sm text-neutral-300 leading-relaxed font-light">
-                  Specialized in visual communication, media production, brand strategy, film aesthetics, and visual storytelling.
-                </p>
               </div>
             </div>
 

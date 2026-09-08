@@ -564,7 +564,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreWorks, onOpenShowreel }) =>
             className="max-w-2xl xl:max-w-3xl"
           >
             <p className="text-lg sm:text-xl md:text-2xl text-neutral-200 leading-relaxed font-normal drop-shadow-[0_2px_12px_rgba(0,0,0,0.9)]">
-              Commercial 3D CGI campaigns, high-velocity fashion motion graphics, and photorealistic lookdev. Leading visual design for <strong className="text-white font-medium">Westside (Tata Group)</strong>, <strong className="text-white font-medium">Sprint</strong>, and premier creative brands.
+              Working across 3D CGI, motion graphics, compositing and visual content for brands and campaigns.
             </p>
           </motion.div>
 

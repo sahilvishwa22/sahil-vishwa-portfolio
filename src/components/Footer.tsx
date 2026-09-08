@@ -44,7 +44,7 @@ export const Footer: React.FC = () => {
           <span className="hidden sm:inline text-neutral-600">&bull;</span>
 
           <span className="text-xs text-neutral-400 font-mono">
-            Mumbai, India {mumbaiTime && `(${mumbaiTime} IST)`}
+            Dombivli, India {mumbaiTime && `(${mumbaiTime} IST)`}
           </span>
         </div>
 

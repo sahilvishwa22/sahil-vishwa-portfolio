@@ -43,13 +43,13 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ selectedServices
         <div className="lg:col-span-5 flex flex-col justify-between">
           <div>
             <span className="text-xs font-mono uppercase tracking-widest text-emerald-400 block mb-3">
-              Let's Create Together
+              Get in Touch
             </span>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-normal tracking-tight text-white leading-tight mb-6">
-              Ready to elevate your visual identity?
+              Let's connect and discuss your next project.
             </h2>
             <p className="text-base sm:text-lg text-neutral-400 leading-relaxed mb-8">
-              Available for select commercial 3D campaigns, motion design direction, and visualizer commissions. Let’s talk about your next project.
+              Available for 3D CGI projects, motion graphics, and creative collaborations. Feel free to reach out via WhatsApp or email.
             </p>
 
             {/* Direct Contact Links */}
