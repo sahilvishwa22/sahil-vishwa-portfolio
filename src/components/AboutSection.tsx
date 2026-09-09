@@ -357,13 +357,13 @@ export const AboutSection: React.FC = () => {
           {/* Paragraph 1: Current Work & Experience */}
           <p className="text-lg sm:text-xl text-neutral-200 leading-relaxed font-light mb-6 min-h-[70px]">
             <TypewriterText
-              plainText="I am Sahil Vishwakarma, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience. I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at Oktobuzz. I've worked on visual content and CGI projects for brands including Westside, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi."
+              plainText="I am Sahil Vishwa, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience. I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at Oktobuzz. I've worked on visual content and CGI projects for brands including Westside, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi."
               triggerKey={scanReportKey}
               speed={5}
               delay={0}
               richJsx={
                 <>
-                  I am <strong className="text-white font-semibold underline decoration-emerald-500/50 decoration-2 underline-offset-4">Sahil Vishwakarma</strong>, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience.
+                  I am <strong className="text-white font-semibold underline decoration-emerald-500/50 decoration-2 underline-offset-4">Sahil Vishwa</strong>, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience.
                   <br /><br />
                   I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at <strong className="text-white font-semibold">Oktobuzz</strong>. I've worked on visual content and CGI projects for brands including <strong className="text-emerald-300 font-medium">Westside</strong>, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi.
                 </>
@@ -671,7 +671,7 @@ export const AboutSection: React.FC = () => {
                   </span>
                 </div>
                 <h3 className="text-2xl font-semibold tracking-tight text-white">
-                  Sahil Vishwakarma
+                  Sahil Vishwa
                 </h3>
                 <p className="text-xs font-mono text-emerald-400/90 mt-0.5">
                   Dombivli, India &bull; Senior Visualizer & 3D Generalist
