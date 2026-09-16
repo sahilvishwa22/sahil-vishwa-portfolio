@@ -144,7 +144,7 @@ export const PROFILE_INFO = {
   email: "sahilvishwa78628@gmail.com",
   phone: "+91 9892142797",
   whatsapp: "https://wa.me/919892142797",
-  resumePath: "/resume/Sahil_Vishwa_Resume.pdf",
+  resumePath: "/resume/Sahil_Vishwa_Resume_2026.pdf?v=2",
   bio: "I am Sahil Vishwa, a Senior Visualizer, Motion Graphic Artist and 3D Generalist based in Dombivli, India, with 4+ years of professional experience. I currently work across 3D CGI, motion graphics, visualization, compositing and AI-assisted content at Oktobuzz. I've worked on visual content and CGI projects for brands including Westside, Vithobha Healthcare, ACCA, OIAI, A&H and Xeno's Play Space, along with book promotion projects for Chetan Bhagat and Amish Tripathi. I started my career in 2022 as a Graphic Designer at PentableU in BKC. While working there, I became interested in 3D and started learning Blender on my own, eventually moving into 3D and CGI professionally.",
   education: [
     {

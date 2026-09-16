@@ -601,7 +601,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreWorks, onOpenShowreel }) =>
             )}
 
             <a
-              href="/resume/Sahil_Vishwa_Resume.pdf"
+              href="/resume/Sahil_Vishwa_Resume_2026.pdf?v=2"
               target="_blank"
               rel="noreferrer"
               className="px-5 py-3.5 rounded-full bg-transparent text-neutral-300 hover:text-white text-sm font-medium underline underline-offset-4 transition-colors drop-shadow-md"

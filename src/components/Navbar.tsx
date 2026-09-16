@@ -102,7 +102,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onContactClick }) => {
             </a>
           ))}
           <a
-            href="/resume/Sahil_Vishwa_Resume.pdf"
+            href="/resume/Sahil_Vishwa_Resume_2026.pdf?v=2"
             target="_blank"
             rel="noreferrer"
             className="text-sm text-neutral-400 hover:text-white mt-4"
